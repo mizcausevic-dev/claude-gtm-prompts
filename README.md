@@ -1,6 +1,9 @@
-# claude-gtm-prompts
+# Claude GTM Prompts
 
-Prompt-library control plane for SEO, CRO, ICP messaging, outbound refinement, and attribution narration. This repo treats GTM prompts as versioned operating assets with scores, owners, artifacts, and review posture.
+Board-ready Kinetic Gain surface for reusable GTM prompt operations across SEO, CRO, outbound, ICP messaging, and attribution workflows.
+
+- Live: [http://promptops.kineticgain.com/](http://promptops.kineticgain.com/)
+- Repo: [https://github.com/mizcausevic-dev/claude-gtm-prompts](https://github.com/mizcausevic-dev/claude-gtm-prompts)
 
 ## What it shows
 
@@ -60,6 +63,7 @@ Then open:
 
 ```powershell
 npm run verify
+npm run prerender
 npm run render:assets
 ```
 
